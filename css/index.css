@@ -132,10 +132,16 @@ html {
     text-align: center;
 }
 
-.video-code {
+.img-code img{
     position: relative;
     justify-content: center;
-    width: 100%;
-    align-items: center;
+    width: 10%;
+    align-items: center; 
+    padding: 40px;
+    display: inline;
+}
+
+.certif-text {
+    position: relative;
 }
 
